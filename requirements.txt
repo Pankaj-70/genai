@@ -9,3 +9,5 @@ streamlit
 scikit-learn
 nltk
 gensim
+tensorflow
+tensorboard
